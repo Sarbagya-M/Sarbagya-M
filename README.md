@@ -12,6 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/sitelogo-nmap.svg" width="40" height="40"/></a>  
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="40" height="40"/></a>  
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
