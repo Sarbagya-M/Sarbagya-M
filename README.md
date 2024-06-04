@@ -1,5 +1,7 @@
 <h1 align="center">Hi I'm Sarbagya Maharjan</h1>
 <h3 align="center">Passion to ethically defend our digital world against unseen threats.</h3>
+
+<h3>TryHackMe Info:</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/N0Nam3.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
