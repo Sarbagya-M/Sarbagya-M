@@ -3,6 +3,7 @@
 
 <h3>TryHackMe Info:</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/N0Nam3.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1348725"></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
