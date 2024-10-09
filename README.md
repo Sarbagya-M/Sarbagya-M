@@ -2,7 +2,7 @@
 <h3 align="center">Passion to ethically defend our digital world against unseen threats.</h3>
 
 <h3>TryHackMe Info:</h3>
-<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/N0Nam3.png" alt="TryHackMe"> -->
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/N0Nam3.png" alt="Your Image Badge" />
 
 
